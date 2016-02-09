@@ -1,2 +1,2 @@
 # ci-management
-This is OS X app, use to set up / update / upgrade web application based on CodeIgniter Framework.
+This is OS X app, use to manager version for web application based on CodeIgniter Framework.
